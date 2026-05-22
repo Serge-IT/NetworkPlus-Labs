@@ -1,0 +1,5 @@
+Best Practices Learned:
+- Use strong unique passwords
+- Enable two-factor authentication
+- Never reuse passwords
+- Always log out of password managers on shared devices
