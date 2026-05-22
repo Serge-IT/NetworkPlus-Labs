@@ -1,0 +1,5 @@
+Troubleshooting Notes:
+- Verified virtualization support in BIOS/UEFI
+- Used Space key to boot from ISO
+- Tested VM Internet access successfully
+- Properly shut down VM after testing
