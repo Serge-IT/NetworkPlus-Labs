@@ -38,3 +38,4 @@ This project introduced the importance of password management and account securi
 
 ## Screenshots
 Screenshots of the Bitwarden dashboard and vault.
+Screenshot - 1.png
