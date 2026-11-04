@@ -39,5 +39,5 @@ This project introduced the importance of password management and account securi
 ## Screenshots
 Screenshots of the Bitwarden dashboard and vault.
 
-Network-Security/Project 1- Create a Password Manager Account/Screenshot - 1.png
+
 
